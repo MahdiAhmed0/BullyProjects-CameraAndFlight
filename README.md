@@ -105,5 +105,5 @@
 
 ## Credits
 
-Fibonacci - Rewriting the Equations and Code
-derpy54320 - Developing and Applying Mathematical Concepts in Bully
+* Fibonacci - Rewriting the Equations and Code
+* derpy54320 - Developing and Applying Mathematical Concepts in Bully
