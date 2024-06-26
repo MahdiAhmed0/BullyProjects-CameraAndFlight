@@ -15,11 +15,11 @@
 
 عشان نفهم شلون السكربت يشتغل... لدينا في السكربت عدّة متغيرات خاصة بحساب الـ 2D&3D Forward Direction
 
-### local cp = camera pitch
+#### local cp = camera pitch
 
-### local ch = camera heading (in radians)
+#### local ch = camera heading (in radians)
 
-### local dist = distance (adjusts the camera's distance from the player)
+#### local dist = distance (adjusts the camera's distance from the player)
 
 
 بعد ماعرفنا وش ترمز له المتغيرات, الأن خلنا نشرح function F_GetForwardDir2D
