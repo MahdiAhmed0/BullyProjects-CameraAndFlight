@@ -38,7 +38,7 @@
 مصطلح يستخدموه العلماء للأشارة الى كمّية (زي الأزاحة او السرعة او القوة) وتحمل قيمتان, حجم (magnitude) واتجاه (direction).
 وعلى الأغلب عشان نرسمها, نستخدم السهم عشان يشير الى اتجاه, ويحمل حجم.
 
-<img width="69" alt="Screenshot_122" src="https://github.com/MahdiAhmed0/BullyProjects-CameraAndFlight/assets/143342068/cd8045e1-581e-495e-ad38-a8bc8e136442">
+<img width="100" alt="Screenshot_122" src="https://github.com/MahdiAhmed0/BullyProjects-CameraAndFlight/assets/143342068/cd8045e1-581e-495e-ad38-a8bc8e136442">
 
 
 
