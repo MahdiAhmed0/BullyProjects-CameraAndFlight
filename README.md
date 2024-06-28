@@ -57,11 +57,8 @@
 الـمتغيرين x1, y1 راح يطلع لنا Vector خاص بأتجاه اللاعب, بينما الأخر x2, y2 راح يطلع لنا الأتجاهات العامودية على اتجاهات الـ Vector الأول.
 الـ Vector الأول خاص بالحركة الى الأمام والثاني خاص بالحركة العامودية.
 * ch: The current heading of the player.
-
 * GetStickValue(17, 0) / 10 * speed: The magnitude of the forward movement.
-
 * ch + math.pi / 2: The heading perpendicular to the current heading.
-
 * GetStickValue(16, 0) / 10 * speed: The magnitude of the perpendicular movement.
 
 
@@ -86,6 +83,10 @@
 #### Distance = حجم او كمية الحركة
 
 الفنكشن راح يرجع x, y, z والي هو الـ Vecotr الخاص بالكاميرا في نظام ثلاثي الأبعاد.
+
+* x = cos(p) ⋅ −sin(h) ⋅ dist
+* y = cos(p) ⋅ cos(h) ⋅ dist
+* z = sin(p) ⋅ dist
 
 تطبيقها في السكربت:
 
